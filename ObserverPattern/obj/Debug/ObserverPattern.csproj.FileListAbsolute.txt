@@ -1,0 +1,7 @@
+C:\Users\Yorik\source\repos\DesignPatterns\Observer\bin\Debug\Observer.exe.config
+C:\Users\Yorik\source\repos\DesignPatterns\Observer\bin\Debug\Observer.exe
+C:\Users\Yorik\source\repos\DesignPatterns\Observer\bin\Debug\Observer.pdb
+C:\Users\Yorik\source\repos\DesignPatterns\Observer\obj\Debug\ObserverPattern.csprojAssemblyReference.cache
+C:\Users\Yorik\source\repos\DesignPatterns\Observer\obj\Debug\ObserverPattern.csproj.CoreCompileInputs.cache
+C:\Users\Yorik\source\repos\DesignPatterns\Observer\obj\Debug\Observer.exe
+C:\Users\Yorik\source\repos\DesignPatterns\Observer\obj\Debug\Observer.pdb
