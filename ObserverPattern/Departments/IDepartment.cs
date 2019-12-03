@@ -1,4 +1,5 @@
 ﻿using ObserverPattern.Groups;
+using System.Collections.Generic;
 
 namespace ObserverPattern.Departments
 {
